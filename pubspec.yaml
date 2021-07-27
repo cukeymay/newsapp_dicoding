@@ -48,8 +48,10 @@ flutter:
   assets:
     - assets/covidimage.png
     - assets/lockdownimage.png
+    - assets/frame1.png
     - assets/profile.png
     - assets/basketball.png
+    - assets/jokowi2.png
     - assets/jokowi.jpg    
     - assets/luhut.png
     - assets/palestina.jpeg    
